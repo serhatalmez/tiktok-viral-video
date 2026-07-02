@@ -2,8 +2,6 @@
 
 **Local AI-powered** viral video idea & script generator with professional video production using **Kie AI + Veo 3.1**.
 
-Local LLM ile yaratıcı fikir ve script üretip, Kie AI + Google Veo 3.1 ile yüksek kaliteli video oluşturan tam otomatik pipeline.
-
 ## ✨ Features
 
 - **Fully local** idea & script generation (LM Studio)
