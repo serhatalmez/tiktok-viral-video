@@ -51,9 +51,9 @@ Coming soon.
 4. Video Generation (Kie AI + Veo 3.1)
 
 ## 📁 Project Structure
-├── workflow/
-│   └── ai-viral-video-generator.json
-├── demo/
-│   └── demo.mp4
-├── README.md
-└── LICENSE
+- workflow/
+  - ai-viral-video-generator.json
+- demo/
+  - demo.mp4
+- README.md
+- LICENSE
